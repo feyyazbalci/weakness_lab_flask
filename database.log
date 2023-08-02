@@ -1,0 +1,5 @@
+DEBUG:root:[(1, 'Mehmet', 'mehmet1234'), (2, 'Ali', 'ali1234'), (3, 'Mehmet', 'mehmet1234'), (4, 'Ali', 'ali1234')]
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2023 11:04:21] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2023 11:04:45] "[33mGET /login&username=Ahmet?password=ahmet1234 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Aug/2023 11:05:50] "[33mGET /login&username=Feyyaz?role=admin HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/home/scorpion/Documents/Weakness_Lab/app.py', reloading
